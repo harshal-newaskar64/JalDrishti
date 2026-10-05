@@ -1,0 +1,7 @@
+onnxruntime
+numpy
+opencv-python-headless
+pillow
+fastapi
+uvicorn
+python-multipart
